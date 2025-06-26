@@ -4,9 +4,11 @@ TravelHub is a simple and responsive web application designed to provide users w
 
 # ✨ Features
 
-✅ Beautiful and responsive design. 📱💻
-✅ Easy-to-navigate interface. 🗺️
-✅ Lightweight and fast performance. ⚡
+✅ Beautiful and responsive design. 
+
+✅ Easy-to-navigate interface. 
+
+✅ Lightweight and fast performance. 
 
 # 🛠️ Tech Stack
 
@@ -26,11 +28,12 @@ git clone https://github.com/your-username/TravelHub.git
 
 cd TravelHub
 
-# Open index.html in your browser.
+ Open index.html in your browser.
 
 # 📢 Connect with Me
 
 💻 GitHub: @riyatyag 
+
 Email: tyagiriya517@gmail.com
 
 🌟 If you like this project, don't forget to star ⭐ the repository!
