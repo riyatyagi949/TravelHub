@@ -2,7 +2,7 @@
 
 TravelHub is a simple and responsive web application designed to provide users with an elegant travel experience. It is a static webpage built using HTML, CSS, and JavaScript to ensure smooth navigation and responsiveness across different devices.
 
-# ✨ Features
+#  Features
 
 ✅ Beautiful and responsive design. 
 
@@ -10,32 +10,31 @@ TravelHub is a simple and responsive web application designed to provide users w
 
 ✅ Lightweight and fast performance. 
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
-HTML5 🏗️
+HTML5 
 
-CSS3 🎨
+CSS3 
 
-JavaScript 💻
+JavaScript 
 
-# 🎯 How to Use
+#  How to Use
 
-# Clone the repository:
+1) Clone the repository:
 
-git clone https://github.com/your-username/TravelHub.git
+             git clone https://github.com/your-username/TravelHub.git
 
-# Navigate to the project folder:
+2) Navigate to the project folder:
 
-cd TravelHub
+             cd TravelHub
 
- Open index.html in your browser.
+3) Open index.html in your browser.
 
-# 📢 Connect with Me
+#  Connect with Me
 
-💻 GitHub: @riyatyag 
+ GitHub: @riyatyag 
 
 Email: tyagiriya517@gmail.com
 
-🌟 If you like this project, don't forget to star ⭐ the repository!
 
 
